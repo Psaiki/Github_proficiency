@@ -1,5 +1,7 @@
-# Rainbow-Song
+# README.md
 
-A song about rainbows in the key of C major.
+This is a repository to increase proficiency at using Github.
 
-The song is a happy song.
+Repo will contain attempts from both CLI and web GUI to push, pull, fork, merge etc.
+
+Here's to being a step closer to being a Github Master!
